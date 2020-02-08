@@ -13,8 +13,6 @@ C++ API设计
    Introduction
    Qualities
    Patterns
-   Design
-   Style
 
 
 Indices and tables
