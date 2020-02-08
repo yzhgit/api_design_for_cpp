@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 C++ API设计
-==========
+===============
 
 .. toctree::
    :maxdepth: 2
